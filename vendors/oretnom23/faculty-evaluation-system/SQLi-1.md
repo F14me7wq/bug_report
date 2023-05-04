@@ -2,7 +2,7 @@
 
 Admin account password： admin@admin.com/admin123
  
-BUG_Author: 戚吴祺，田志宏，广州大学
+BUG_Author: WuQi Qi and Zhihong Tian, Guangzhou University
 
 vendors: https://www.sourcecodester.com/php/14635/faculty-evaluation-system-using-phpmysqli-source-code.html
 

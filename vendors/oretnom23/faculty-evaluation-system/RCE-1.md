@@ -62,6 +62,7 @@ Content-Disposition: form-data; name="cpass"
 -----------------------------1037163726497--
 ```
 
+The uploaded file path has returned in response.
 
 The files will be uploaded to this directory \eval\assets\uploads\
 ![image](https://user-images.githubusercontent.com/54017627/235872023-d853de72-5f23-48a0-9651-bc20dc09e2f4.png)

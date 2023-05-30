@@ -1,5 +1,9 @@
 # Faculty Evaluation System v1.0 by oretnom23 has arbitrary code execution (RCE)
 
+[CVE-2023-33439](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-33440)
+
+[NVD Score: **7.2 HIGH**](https://nvd.nist.gov/vuln/detail/CVE-2023-33440)
+
 BUG_Author: WuQi Qi and Zhihong Tian, Guangzhou University
 
 vendors: https://www.sourcecodester.com/php/14635/faculty-evaluation-system-using-phpmysqli-source-code.html

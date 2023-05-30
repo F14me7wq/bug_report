@@ -1,6 +1,7 @@
 # Faculty Evaluation System v1.0 by oretnom23 has SQL injection
 
 [CVE-2023-33439](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-33439)
+
 [NVD Score: **7.2 HIGH**](https://nvd.nist.gov/vuln/detail/CVE-2023-33439)
 
 Admin account password： admin@admin.com/admin123
